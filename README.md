@@ -22,11 +22,11 @@ Example
 
 Change MAC address randomly:
 
-     >  python mac_changer.py wlan0 -r
+     >  sudo python mac_changer.py wlan0 -r
      
 Change MAC address to a specific value:
 
-     >  python mac_changer.py wlan0 -m 00:11:22:33:44:55
+     >  sudo python mac_changer.py wlan0 -m 00:11:22:33:44:55
      
 Dependencies
 
